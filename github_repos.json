@@ -1,0 +1,9 @@
+{
+	"repos":  [
+		"angular/angular",
+		"facebook/react",
+		"vuejs/vue",
+		"aurelia/framework",
+		"emberjs/ember.js"
+	]
+}
